@@ -1,0 +1,5 @@
+Redis Essentials 2015 (4.8/11)
+Learning Redis 2015 (3.0/1)
+Building Scalable Apps with Redis and Node.js 2014 (4.1/9)
+Redis in Action 2013 (4.1/13)
+Redis Cookbook: Practical Techniques for Fast Data Manipulation 2011 (2.5/4)
